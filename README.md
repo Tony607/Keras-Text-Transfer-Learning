@@ -1,7 +1,7 @@
 # [Keras + Universal Sentence Encoder = Transfer Learning for text data](https://www.dlology.com/blog/keras-meets-universal-sentence-encoder-transfer-learning-for-text-data/).
 ## Run Colab notebook
 
-TODO
+The easiest, zero configuration way to run the code, open in [ this Google Colab notebook](https://colab.research.google.com/drive/1Odry08Jm0f_YALhAt4vp9qa5w8prUzDY).
 
 ## How to Run on local machine
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) and [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed
@@ -15,7 +15,7 @@ git clone https://github.com/Tony607/Keras-Text-Transfer-Learning
 
 ### Run the notebook
 
-In the project directory start a command line, then run command
+In the project directory, start a command line, then run command
 ```
 jupyter notebook
 ```
